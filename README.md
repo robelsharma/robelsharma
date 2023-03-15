@@ -12,13 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![](https://raw.githubusercontent.com/robelsharma/statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/robelsharma/statistics/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/robelsharma/statistics/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/robelsharma/statistics/master/generated/languages.svg#gh-light-mode-only)
+
+!-->
 
 <a href="https://github.com/robelsharma/statistics">
 <img src="https://github.com/robelsharma/statistics/blob/master/generated/overview.svg#gh-dark-mode-only" />
