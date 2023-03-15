@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/robelsharma/statistics/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/robelsharma/statistics/master/generated/languages.svg#gh-light-mode-only)
 
+<img src="https://github.com/robelsharma/statistics/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/robelsharma/statistics/blob/master/generated/languages.svg#gh-dark-mode-only" />
 !-->
 
 <a href="https://github.com/robelsharma/statistics">
-<img src="https://github.com/robelsharma/statistics/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/robelsharma/statistics/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/robelsharma/statistics/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/robelsharma/statistics/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
